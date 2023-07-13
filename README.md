@@ -1,0 +1,1 @@
+# newShazam-card-react
