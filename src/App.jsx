@@ -51,7 +51,7 @@ function App() {
           {searchResults.map((song) => (
             <li key={song.id}>
               <h3>Title of the song: {song.title}</h3>
-              <p>Artist name: {song.artist.name}</p>
+              <h4>Artist name: {song.artist.name}</h4>
             </li>
           ))}
         </ul>
