@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="component">
-      <h1>Shazam <br /> swing you mood by listening to your heart's music</h1>
+      <h1>Shazam <br /> swing your mood by listening to your heart's music</h1>
       
       {/* Include the SearchForm component */}
       <SearchForm onSearch={handleSearch} />
